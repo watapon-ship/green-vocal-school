@@ -15,6 +15,13 @@ $(function () {
     return false;
   });
 
+  // 最初の画面に遷移（スマホ対応）
+  $('#top_tap').on('click', function () {
+    $(window).scrollTop($('#info-section').position().top);
+    return false;
+  });
+
+
   // //固定ヘッダー
   // $(window).scroll(function () {
   //   if ($(window).scrollTop() >= offset.top) {
