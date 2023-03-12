@@ -107,7 +107,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: calc(100vh - 33.25px);
+    height: calc(100vh - 38px);
     /* background-image: url(../img/header/mori.jpg); */
     background-color: #229922;
     background-size: cover;
