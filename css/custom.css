@@ -1,0 +1,20 @@
+/*--------------------------------
+bootstrapにないカラー
+---------------------------------*/
+.bg-right-green {
+  background-color: #aaffcc !important;
+}
+
+.bg-green-gray {
+  background-color: #eeffee !important;
+}
+
+.bg-dark-green {
+  background-color: #006622 !important;
+}
+
+.card-head {
+  flex: 1 1 auto;
+  padding: 1rem 1rem;
+  font-size: 32px;
+}
