@@ -8,8 +8,7 @@
   justify-content: center;
   height: calc(100vh - 40px);
   width:100%;
-  /* background-image: url(../img/header/mori.jpg); */
-  background-color: #229922;
+  background-image: url(../img/header/logo.png);
   background-size: cover;
 }
 
@@ -68,9 +67,6 @@
 .section-info {
   padding: 80px 0;
   height:1200px;
-}
-.section-end {
-  padding: 80px 0;
 }
 
 
