@@ -16,12 +16,12 @@
 
 .logo {
   text-align: center;
-  background-image: url(../img/header/logo.png);
+  background-image: url(../img/header/logo.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
   height: 100%;
-  width: 50%;
+  width: 100%;
 }
 
 .logo-title {
