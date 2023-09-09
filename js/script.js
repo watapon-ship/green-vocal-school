@@ -21,6 +21,11 @@ $(function () {
     return false;
   });
 
+  // メニューを閉じる
+  $('.nav-close').on('click', function () {
+    $('#tog_button').trigger("click");
+  });
+
 
   // //固定ヘッダー
   // $(window).scroll(function () {
