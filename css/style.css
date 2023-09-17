@@ -157,4 +157,9 @@
   .nav-text {
     font-size:11.5px;
   }
+
+  .nav-list-button a {
+    border: #226622 10px;
+  }
+
 }

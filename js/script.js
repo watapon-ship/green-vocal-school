@@ -22,7 +22,7 @@ $(function () {
   });
 
   // メニューを閉じる
-  $('.nav-close').on('click', function () {
+  $('.nav-list-button').on('click', function () {
     $('#tog_button').trigger("click");
   });
 
